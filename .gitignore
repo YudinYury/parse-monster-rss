@@ -1,0 +1,17 @@
+.idea
+.venv
+venv
+__pycache__
+config.py
+*.db
+*.json
+*.log
+*.rtf
+*.7z
+*.7zip
+*.rar
+*.rtf
+*.docx
+*.pdf
+*.png
+
